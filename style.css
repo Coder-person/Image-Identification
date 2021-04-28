@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+    color:black;
+}
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height:300px;
+}
+.heading{
+    font-size:22px;
+    width:80%;
+}
+
+.class_of_objects{
+    color:purple;
+}
